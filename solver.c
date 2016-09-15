@@ -1,6 +1,6 @@
 
 /* 
- * Solve a 1-D LASSO problem like
+ * Solve a 1-D L1 regression problem like
  *
  * 		min_\beta || \beta x - y ||_1
  * 
